@@ -1,2 +1,2 @@
 # Tic-Tact-Toe
-tic-tac-toe python parcatice from old replit account
+tic-tac-toe python practice from old replit account
